@@ -1,11 +1,11 @@
 ## Цветков Артём Бисо-03-20
 
-##Цель работы
+## Цель работы
 
-##1. Зекрепить практические навыки использования языка программирования R для обработки данных
-##2. Закрепить знания основных функций обработки данных экосистемы tidyverse языка R
-##3. Развить пркатические навыки использования функций обработки данных пакета dplyr – функции
-##select(), filter(), mutate(), arrange(), group_by()
+## 1. Зекрепить практические навыки использования языка программирования R для обработки данных
+## 2. Закрепить знания основных функций обработки данных экосистемы tidyverse языка R
+## 3. Развить пркатические навыки использования функций обработки данных пакета dplyr – функции
+## select(), filter(), mutate(), arrange(), group_by()
 
 
 
@@ -238,7 +238,7 @@ Go back to your original working directory using setwd(). (Recall that we create
 setwd(old.dir)
 ```
 
-###Sequences of Numbers
+### Sequences of Numbers
 
 The simplest way to create a sequence of numbers in R is by using the `:` operator. Type 1:20 to see how it works
 
@@ -337,7 +337,7 @@ Finally, let's say that rather than repeating the vector (0, 1, 2) over and over
 rep(c(0, 1, 2), each = 10)
 ```
 
-###Vectors  
+### Vectors  
 
 First, create a numeric vector num_vect that contains the values 0.5, 55, -10, and 6.
 
