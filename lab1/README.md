@@ -7,7 +7,7 @@
  3. Развить пркатические навыки использования функций обработки данных пакета dplyr – функции
  select(), filter(), mutate(), arrange(), group_by()
 
-
+## Ход работы
 
 In its simplest form, R can be used as an interactive calculator. Type 5 + 7 and press Enter
 
