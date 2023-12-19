@@ -19,22 +19,33 @@ To assign the result of 5 + 7 to a new variable called x, you type x <- 5 + 7. T
 
 ```{r}
 x <- 5 + 7
-x
 ```
 
+```{r}
+x
+```
 Now, store the result of x - 3 in a new variable called y.
 
 ```{r}
 y <-x-3
+```
+
+```{r}
 y
 ```
+
  The easiest way to create a vector is with the c() function, which stands for 'concatenate' or 'combine'. To create a vector containing
 | the numbers 1.1, 9, and 3.14, type c(1.1, 9, 3.14). Try it now and store the result in a variable called z.
 
 ```{r}
 z <- c(1.1, 9, 3.14)
+```
+
+```{r}
 z
 ```
+
+
 Type ?c and press Enter. This will bring up the help file for the c() function.
 
 ```{r}
